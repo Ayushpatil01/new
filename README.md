@@ -2,4 +2,3 @@
 my first project
 <hr>
 Auther: Ayush Awatirak
-ayush
